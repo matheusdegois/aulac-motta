@@ -1,0 +1,8 @@
+1) instalar o MinGW
+https://cursos.alura.com.br/forum/topico-eu-nao-estou-conseguindo-compilar-o-programa-no-prompt-175116
+
+2)Para c++
+g++ .\(nome-do-arquivo-completo) -o (nome para o executavel sem extensão) 
+
+3)
+.\”(nome do executavel + .exe)"
